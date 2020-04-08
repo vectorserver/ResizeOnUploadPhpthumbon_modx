@@ -1,0 +1,61 @@
+[{
+    "name": "format",
+    "desc": "Тип MIME",
+    "xtype": "textfield",
+    "options": [],
+    "value": "jpg",
+    "lexicon": "",
+    "overridden": false,
+    "desc_trans": "Тип MIME",
+    "area": "",
+    "area_trans": "",
+    "menu": null
+}, {
+    "name": "height",
+    "desc": "Высота",
+    "xtype": "textfield",
+    "options": [],
+    "value": "800",
+    "lexicon": "",
+    "overridden": false,
+    "desc_trans": "Высота",
+    "area": "",
+    "area_trans": "",
+    "menu": null
+}, {
+    "name": "quality",
+    "desc": "Качаство",
+    "xtype": "textfield",
+    "options": [],
+    "value": "75",
+    "lexicon": "",
+    "overridden": false,
+    "desc_trans": "Качаство",
+    "area": "",
+    "area_trans": "",
+    "menu": null
+}, {
+    "name": "width",
+    "desc": "Ширина",
+    "xtype": "textfield",
+    "options": [],
+    "value": "1070",
+    "lexicon": "",
+    "overridden": false,
+    "desc_trans": "Ширина",
+    "area": "",
+    "area_trans": "",
+    "menu": null
+}, {
+    "name": "zc",
+    "desc": "Обрезка изображения по висоте и ширине",
+    "xtype": "textfield",
+    "options": [],
+    "value": "0",
+    "lexicon": "",
+    "overridden": false,
+    "desc_trans": "Обрезка изображения по висоте и ширине",
+    "area": "",
+    "area_trans": "",
+    "menu": null
+}]
