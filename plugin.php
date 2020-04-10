@@ -12,7 +12,8 @@ $eventName = $modx->event->name;
 switch ($eventName) {
 
     case 'OnFileManagerUpload':
-
+        // настройки media source
+        $directory = $source->properties['basePath'].$directory;
 
         //Поддерживаемые изображения
         $extensions = explode(',', $modx->getOption('upload_images'));
