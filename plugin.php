@@ -33,6 +33,6 @@ switch ($eventName) {
             $tmpImg = str_ireplace("//", "/", MODX_BASE_PATH . $tmpImg);
 
             rename($tmpImg, MODX_BASE_PATH . $imgPath);
-        };
+        }
         break;
 }
